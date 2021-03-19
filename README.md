@@ -1,4 +1,5 @@
 required imports
+```
 python3
 discord
 commands from discord.exe  
@@ -6,9 +7,8 @@ requests
 os
 dotenv
 pathlib
-
-requirement to use the bot
-
+```
+requirements to use the bot
 You need to be the create of the group and allow for permissions to have the bot in your chat. You can look on the discord documentation to see how to add bots to your group.
 
 this small project is a discord bot that uses external APIs to generate memes and random quotes on a discord chat. It is also capable of changing the role color of a user and creating a new chat channel. You can use the help command to see all available features
@@ -67,7 +67,7 @@ Lastly, if you want to see all the available features for the bot just simple ru
 !help
 ```
 
-<h3> Contributions <h3> 
+<h3> Contributions </h3> 
 feel free to message me for the tokens to the APIs if you want 
 to use or contribute to the bot 
 
