@@ -11,7 +11,7 @@ load_dotenv(dotenv_path=env_path)
 TOKEN = os.getenv("TOKEN")
 client = commands.Bot(command_prefix='!')
 
-#let maybe try to get some better colors
+# default discord colors, we can get something better 
 Colors = { 
     'default' : discord.Color.default(),
     'teal' : discord.Color.teal(),
