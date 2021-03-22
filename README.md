@@ -1,4 +1,5 @@
-required imports
+<h3>Technologies</h3>
+
 ```
 python3
 discord
@@ -8,8 +9,11 @@ os
 dotenv
 pathlib
 ```
-requirements to use the bot
-You need to be the create of the group and allow for permissions to have the bot in your chat. You can look on the discord documentation to see how to add bots to your group.
+<h3>Requirements to Use the Bot</h3>
+
+You need to be the create of the group and allow for permissions to have the bot in your chat. You can look on the discord documentation to see how to add bots to your group. For more information about setting up the bot in your group you can click on this link.. https://discord.com/developers/docs/intro
+
+<h3>How this Bot works</h3>
 
 this small project is a discord bot that uses external APIs to generate memes and random quotes on a discord chat. It is also capable of changing the role color of a user and creating a new chat channel. You can use the help command to see all available features
 
@@ -68,6 +72,7 @@ Lastly, if you want to see all the available features for the bot just simple ru
 ```
 
 <h3> Contributions </h3> 
+
 feel free to message me for the tokens to the APIs if you want 
 to use or contribute to the bot 
 
